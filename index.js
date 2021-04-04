@@ -6680,7 +6680,7 @@ caption: teks, contextInfo: {
 				break
 		case 'simih':
 					if (!isGroup) return reply(ind.groupo())
-					if (!isGroupAdmins) return reply(ind.admin())
+					if (!isOwner) return reply(ind.ownerg()) 
 					if (args.length < 1) return reply('Mengaktifkan tekan 1, Menonaktif tekan 0')
 					if (Number(args[0]) === 1) {
 						if (isSimi) return reply('*Fitur simi sudah aktif sebelum nya*')
