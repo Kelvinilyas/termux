@@ -1,0 +1,571 @@
+{
+    "code": "200",
+    "status": "success",
+    "result": [
+        {
+            "name": "TELKOMSEL",
+            "kode": "TELKOMSEL",
+            "tipe": "PULSA"
+        },
+        {
+            "name": "INDOSAT",
+            "kode": "INDOSAT",
+            "tipe": "PULSA"
+        },
+        {
+            "name": "XL",
+            "kode": "XL",
+            "tipe": "PULSA"
+        },
+        {
+            "name": "AXIS",
+            "kode": "AXIS",
+            "tipe": "PULSA"
+        },
+        {
+            "name": "TRI",
+            "kode": "TRI",
+            "tipe": "PULSA"
+        },
+        {
+            "name": "SMARTFREN",
+            "kode": "SMART",
+            "tipe": "PULSA"
+        },
+        {
+            "name": "by.U",
+            "kode": "by.U",
+            "tipe": "PULSA"
+        },
+        {
+            "name": "DANA",
+            "kode": "DANA",
+            "tipe": "SALGO"
+        },
+        {
+            "name": "OVO",
+            "kode": "OVO",
+            "tipe": "SALGO"
+        },
+        {
+            "name": "PLN Prabayar",
+            "kode": "PLN",
+            "tipe": "TOKENPLN"
+        },
+        {
+            "name": "GOOGLE PLAY INDONESIA",
+            "kode": "GOOGLE PLAY INDONESIA",
+            "tipe": "VGAME"
+        },
+        {
+            "name": "GOOGLE PLAY US REGION",
+            "kode": "GOOGLE PLAY US REGION",
+            "tipe": "VGAME"
+        },
+        {
+            "name": "GEMSCOOL",
+            "kode": "GEMSCOOL",
+            "tipe": "VGAME"
+        },
+        {
+            "name": "MEGAXUS",
+            "kode": "MEGAXUS",
+            "tipe": "VGAME"
+        },
+        {
+            "name": "MOBILE LEGEND",
+            "kode": "MOBILE LEGEND",
+            "tipe": "VGAME"
+        },
+        {
+            "name": "POINT BLANK",
+            "kode": "POINT BLANK",
+            "tipe": "VGAME"
+        },
+        {
+            "name": "VOUCHER POINT BLANK",
+            "kode": "VOUCHER POINT BLANK",
+            "tipe": "VGAME"
+        },
+        {
+            "name": "FREE FIRE",
+            "kode": "FREE FIRE",
+            "tipe": "VGAME"
+        },
+        {
+            "name": "PUBG MOBILE",
+            "kode": "PUBG MOBILE",
+            "tipe": "VGAME"
+        },
+        {
+            "name": "ARENA OF VALOR",
+            "kode": "ARENA OF VALOR",
+            "tipe": "VGAME"
+        },
+        {
+            "name": "Call of Duty MOBILE",
+            "kode": "Call of Duty MOBILE",
+            "tipe": "VGAME"
+        },
+        {
+            "name": "Speed Drifters",
+            "kode": "Speed Drifters",
+            "tipe": "VGAME"
+        },
+        {
+            "name": "SPOTIFY PREMIUM",
+            "kode": "SPOTIFY PREMIUM",
+            "tipe": "SPOTIFY"
+        },
+        {
+            "name": "Gopay Penumpang",
+            "kode": "GO PAY",
+            "tipe": "SALGO"
+        },
+        {
+            "name": "Gopay Driver",
+            "kode": "GOPAY DRIVER",
+            "tipe": "SALGO"
+        },
+        {
+            "name": "Grab Penumpang",
+            "kode": "GRAB",
+            "tipe": "SALGO"
+        },
+        {
+            "name": "Grab Driver",
+            "kode": "GRAB DRIVER",
+            "tipe": "SALGO"
+        },
+        {
+            "name": "MANDIRI E-TOLL",
+            "kode": "MANDIRI E-TOLL",
+            "tipe": "SALGO"
+        },
+        {
+            "name": "SHOPEE PAY",
+            "kode": "SHOPEE PAY",
+            "tipe": "SALGO"
+        },
+        {
+            "name": "GARENA SHELL",
+            "kode": "GARENA",
+            "tipe": "VGAME"
+        },
+        {
+            "name": "Voucher Axis Aigo",
+            "kode": "AXIS AIGO",
+            "tipe": "VOUCHER"
+        },
+        {
+            "name": "Voucher Axis Aigo Mini",
+            "kode": "AIGO MINI",
+            "tipe": "VOUCHER"
+        },
+        {
+            "name": "Voucher Axis Owsem",
+            "kode": "AIGO OWSEM",
+            "tipe": "VOUCHER"
+        },
+        {
+            "name": "Voucher Telkomsel Data",
+            "kode": "TSEL DATA",
+            "tipe": "VOUCHER"
+        },
+        {
+            "name": "Voucher Telkomsel Data Bulk",
+            "kode": "TSEL BULK",
+            "tipe": "VOUCHER"
+        },
+        {
+            "name": "Voucher Indosat",
+            "kode": "VOC INDOSAT",
+            "tipe": "VOUCHER"
+        },
+        {
+            "name": "Voucher Smartfren",
+            "kode": "VOC SMART",
+            "tipe": "VOUCHER"
+        },
+        {
+            "name": "Voucher Three",
+            "kode": "VOC TRI",
+            "tipe": "VOUCHER"
+        },
+        {
+            "name": "Voucher Three AlwaysOn",
+            "kode": "VOC TRI A",
+            "tipe": "VOUCHER"
+        },
+        {
+            "name": "Voucher Three AON",
+            "kode": "VOC TRI B",
+            "tipe": "VOUCHER"
+        },
+        {
+            "name": "Voucher Three Mini",
+            "kode": "VOC TRI C",
+            "tipe": "VOUCHER"
+        },
+        {
+            "name": "Voucher XL Data Mini",
+            "kode": "XL MINI",
+            "tipe": "VOUCHER"
+        },
+        {
+            "name": "Voucher XL Combo LITE",
+            "kode": "XL LITE",
+            "tipe": "VOUCHER"
+        },
+        {
+            "name": "Paket Telepon Telkomsel",
+            "kode": "TEL TSEL",
+            "tipe": "PKSMS"
+        },
+        {
+            "name": "Paket Telepon Sesama Telkomsel",
+            "kode": "TEL TSEL 1",
+            "tipe": "PKSMS"
+        },
+        {
+            "name": "Paket Telepon Telkomsel Semua Oprator",
+            "kode": "TEL TSEL 2",
+            "tipe": "PKSMS"
+        },
+        {
+            "name": "Paket Telepon Telkomsel Mix",
+            "kode": "TEL TSEL 3",
+            "tipe": "PKSMS"
+        },
+        {
+            "name": "Paket SMS Telkomsel Semua Oprator",
+            "kode": "SMS TSEL",
+            "tipe": "PKSMS"
+        },
+        {
+            "name": "Paket Telepon Indosat",
+            "kode": "TEL IND",
+            "tipe": "PKSMS"
+        },
+        {
+            "name": "Paket SMS Indosat",
+            "kode": "SMS IND",
+            "tipe": "PKSMS"
+        },
+        {
+            "name": "Paket Telepon Three",
+            "kode": "TEL TRI",
+            "tipe": "PKSMS"
+        },
+        {
+            "name": "Paket Telepon XL Anynet",
+            "kode": "TEL XL",
+            "tipe": "PKSMS"
+        },
+        {
+            "name": "Telkomsel Data Bulk",
+            "kode": "BULK",
+            "tipe": "PKIN"
+        },
+        {
+            "name": "Telkomsel Data Flash",
+            "kode": "FLASH",
+            "tipe": "PKIN"
+        },
+        {
+            "name": "Telkomsel Data Mini",
+            "kode": "MINI",
+            "tipe": "PKIN"
+        },
+        {
+            "name": "Telkomsel Data Maxstream",
+            "kode": "MAX",
+            "tipe": "PKIN"
+        },
+        {
+            "name": "Telkomsel Data Gamesmax",
+            "kode": "GAMESMAX",
+            "tipe": "PKIN"
+        },
+        {
+            "name": "Telkomsel Data Combo",
+            "kode": "COMBO",
+            "tipe": "PKIN"
+        },
+        {
+            "name": "Telkomsel Data Semua Jaringan",
+            "kode": "TSEL ALL",
+            "tipe": "PKIN"
+        },
+        {
+            "name": "Telkomsel Data Malam",
+            "kode": "MALAM",
+            "tipe": "PKIN"
+        },
+        {
+            "name": "Telkomsel Data Kecil",
+            "kode": "KECIL",
+            "tipe": "PKIN"
+        },
+        {
+            "name": "Telkomsel Data OMG",
+            "kode": "OMG",
+            "tipe": "PKIN"
+        },
+        {
+            "name": "Indosat Data",
+            "kode": "IND DATA",
+            "tipe": "PKIN"
+        },
+        {
+            "name": "Indosat Data Freedom",
+            "kode": "FREEDOM",
+            "tipe": "PKIN"
+        },
+        {
+            "name": "Indosat Data Freedom Combo",
+            "kode": "FREE COMBO",
+            "tipe": "PKIN"
+        },
+        {
+            "name": "Indosat Data Freedom Internet",
+            "kode": "FREE INET",
+            "tipe": "PKIN"
+        },
+        {
+            "name": "Indosat Data Freedom Internet Plus",
+            "kode": "FEE INET P",
+            "tipe": "PKIN"
+        },
+        {
+            "name": "Indosat Data Haji Unlimited",
+            "kode": "HAJI",
+            "tipe": "PKIN"
+        },
+        {
+            "name": "Indosat Data Haji Unlimited Komplit",
+            "kode": "HAJI K",
+            "tipe": "PKIN"
+        },
+        {
+            "name": "Indosat Data Internet Unlimited",
+            "kode": "DATA UNLI",
+            "tipe": "PKIN"
+        },
+        {
+            "name": "Indosat Data Ekstra",
+            "kode": "EKSTRA",
+            "tipe": "PKIN"
+        },
+        {
+            "name": "Indosat Data Yellow",
+            "kode": "YELLOW",
+            "tipe": "PKIN"
+        },
+        {
+            "name": "Indosat Data Apps",
+            "kode": "APPS",
+            "tipe": "PKIN"
+        },
+        {
+            "name": "Axis Data Bronet",
+            "kode": "BRONET",
+            "tipe": "PKIN"
+        },
+        {
+            "name": "Axis Data Owsem",
+            "kode": "OWSEM",
+            "tipe": "PKIN"
+        },
+        {
+            "name": "Smart Data Internet",
+            "kode": "SMART INT",
+            "tipe": "PKIN"
+        },
+        {
+            "name": "Smart Data Internet Mix",
+            "kode": "SMART MIX",
+            "tipe": "PKIN"
+        },
+        {
+            "name": "Smart Data Evo",
+            "kode": "SMART EVO",
+            "tipe": "PKIN"
+        },
+        {
+            "name": "Smart Data FUP",
+            "kode": "SMART FUP",
+            "tipe": "PKIN"
+        },
+        {
+            "name": "Three Data Internet",
+            "kode": "TRI DATA",
+            "tipe": "PKIN"
+        },
+        {
+            "name": "Three Data Mix",
+            "kode": "TRI MIX",
+            "tipe": "PKIN"
+        },
+        {
+            "name": "Three Data LTE",
+            "kode": "TRI LTE",
+            "tipe": "PKIN"
+        },
+        {
+            "name": "Three Data AlwaysOn",
+            "kode": "TRI AO",
+            "tipe": "PKIN"
+        },
+        {
+            "name": "Three Data AON",
+            "kode": "TRI AON",
+            "tipe": "PKIN"
+        },
+        {
+            "name": "Three Data Mini",
+            "kode": "TRI MINI",
+            "tipe": "PKIN"
+        },
+        {
+            "name": "Three Data Nasional",
+            "kode": "NASIONAL",
+            "tipe": "PKIN"
+        },
+        {
+            "name": "XL Data Combo Lite",
+            "kode": "COMBO LITE",
+            "tipe": "PKIN"
+        },
+        {
+            "name": "XL Data Hotrod",
+            "kode": "HOTROD",
+            "tipe": "PKIN"
+        },
+        {
+            "name": "XL Data Xtra Combo",
+            "kode": "XTRA COMBO",
+            "tipe": "PKIN"
+        },
+        {
+            "name": "XL Data Combo VIP",
+            "kode": "COMBO VIP",
+            "tipe": "PKIN"
+        },
+        {
+            "name": "XL Data Combo Baru",
+            "kode": "COMBO BARU",
+            "tipe": "PKIN"
+        },
+        {
+            "name": "XL Data Kuota Mini",
+            "kode": "XL MINI KC",
+            "tipe": "PKIN"
+        },
+        {
+            "name": "XL Data Hotrod Plus",
+            "kode": "PLUS",
+            "tipe": "PKIN"
+        },
+        {
+            "name": "XL Data ON",
+            "kode": "ON",
+            "tipe": "PKIN"
+        },
+        {
+            "name": "Netflix Premium",
+            "kode": "NETFLIX",
+            "tipe": "NETFLIX"
+        },
+        {
+            "name": "BRI BRIZZI",
+            "kode": "BRI BRIZZI",
+            "tipe": "SALGO"
+        },
+        {
+            "name": "LinkAja",
+            "kode": "LinkAja",
+            "tipe": "SALGO"
+        },
+        {
+            "name": "TAPCASH BNI",
+            "kode": "TAPCASH BNI",
+            "tipe": "SALGO"
+        },
+        {
+            "name": "ITUNES US REGION",
+            "kode": "ITUNES US REGION",
+            "tipe": "VGAME"
+        },
+        {
+            "name": "Unipin Voucher",
+            "kode": "Unipin Voucher",
+            "tipe": "VGAME"
+        },
+        {
+            "name": "IMVU",
+            "kode": "IMVU",
+            "tipe": "VGAME"
+        },
+        {
+            "name": "Youtube Premium",
+            "kode": "YT",
+            "tipe": "YT"
+        },
+        {
+            "name": "Steam Wallet (USD)",
+            "kode": "Steam Wallet (USD)",
+            "tipe": "VGAME"
+        },
+        {
+            "name": "WIFI ID",
+            "kode": "WIFI ID",
+            "tipe": "VOUCHER"
+        },
+        {
+            "name": "Steam Wallet Code IDR",
+            "kode": "STEAM SEA",
+            "tipe": "VGAME"
+        },
+        {
+            "name": "Indosat Data Freedom Internet Plus",
+            "kode": "FREE INET P",
+            "tipe": "PKIN"
+        },
+        {
+            "name": "XL data XTRA KUOTA",
+            "kode": "XTRA KUOTA",
+            "tipe": "PKIN"
+        },
+        {
+            "name": "ALFAMART",
+            "kode": "ALFAMART VOUCHER",
+            "tipe": "VOUCHER"
+        },
+        {
+            "name": "INDOMARET",
+            "kode": "INDOMARET",
+            "tipe": "VOUCHER"
+        },
+        {
+            "name": "BUKALAPAK",
+            "kode": "BUKALAPAK",
+            "tipe": "VOUCHER"
+        },
+        {
+            "name": "JUNGLELAND",
+            "kode": "JUNGLELAND",
+            "tipe": "VOUCHER"
+        },
+        {
+            "name": "XL DATA",
+            "kode": "XL DATA",
+            "tipe": "PKIN"
+        },
+        {
+            "name": "Paket Telepon Axis",
+            "kode": "AXISTEL",
+            "tipe": "PKSMS"
+        }
+    ]
+}
